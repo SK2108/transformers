@@ -60,8 +60,12 @@ pip install transformers
 python -c "from transformers import pipeline; print(pipeline('sentiment-analysis')('we love you'))"
 ```
 
+## Datasets
+
 ## Helpful links
 
--[Transformers: Philosophy](https://huggingface.co/docs/transformers/philosophy)
+- [Transformers: Philosophy](https://huggingface.co/docs/transformers/philosophy)
 
 - [Transformers: Installation](https://huggingface.co/docs/transformers/installation)
+
+- [Datasets, Hugging Face](https://huggingface.co/docs/datasets/nlp_load)
